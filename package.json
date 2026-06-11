@@ -1,0 +1,27 @@
+{
+  "name": "http-example",
+  "version": "1.0.0",
+  "description": "this is a simple http sample project for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gedesuarsana/node-http-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gedesuarsana/node-http-example/issues"
+  },
+  "homepage": "https://github.com/gedesuarsana/node-http-example#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

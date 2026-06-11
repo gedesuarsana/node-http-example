@@ -1,2 +1,2 @@
 # node-http-example
-this is a simple http sample project for node
+this is a simple http server sample project for node
